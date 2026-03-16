@@ -1,7 +1,4 @@
-<!--
-**Federalmedia/federalmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Olá, eu sou o Alexandre Cardoso
 
 - 🔭 Atual sou colaborador na Datora Telecom, atuando como Técnico de Datacenter.
 - ![estudante](https://github.com/user-attachments/assets/de4edfab-7387-4ac0-bd05-3dce4ab425fe)
