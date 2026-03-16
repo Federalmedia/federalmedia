@@ -1,6 +1,6 @@
 Olá, eu sou o Alexandre Cardoso
 
-- Atual sou colaborador na Datora Telecom, atuando como Técnico de Datacenter.
+Atual sou colaborador na Datora Telecom, atuando como Técnico de Datacenter.
   
 
 - ![estudante](https://github.com/user-attachments/assets/de4edfab-7387-4ac0-bd05-3dce4ab425fe)
